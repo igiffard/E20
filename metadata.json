@@ -1,0 +1,6 @@
+{
+  "name": "Control Patrimonial - Consulta de Equipos FCM UABC",
+  "description": "Sistema de consulta de inventario patrimonial, ubicación por edificio y profesor responsable de la Facultad de Ciencias Marinas UABC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
